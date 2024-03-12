@@ -1,0 +1,2 @@
+INFO : 2024-03-12 15:27:21,445 : Serving on http://0.0.0.0:5005 
+INFO : 2024-03-12 15:27:26,574 : HTTP Request: POST https://biopenai4.openai.azure.com//openai/deployments/gpt4v32k/chat/completions?api-version=2023-05-15 "HTTP/1.1 200 OK" 
